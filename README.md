@@ -26,7 +26,7 @@ Data Analysis and K-Means clustering on 2400+ product variants from Amazon, Flip
 
 ![image](https://github.com/user-attachments/assets/4bba95af-c642-4ac0-a201-48b0bca630f1)
 
-### Identified 3 main market segments - 
+### Identified 3 main market segments
 1. Essential Makeup - With the largest no. of distinct products, this segment offers diverse options of essential makeup products for consumers. Despite being priced towards the lower end, these products provide good value for money due to their small size, making them accessible to a broader audience.
 
 
